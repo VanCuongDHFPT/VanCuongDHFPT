@@ -1,3 +1,6 @@
 ## Hi Everyone 👋
 👋 About Me :
-Hi, I'm vancuong, Software Engineer, Web Developer, Quality Control Specialist, and studying at FPT University. Let’s create something exciting together! 🌟
+Hi, I'm vancuong, Coder, and studying at FPT University.
+I am very interested with Code, i am try-hard and update new knowledge.
+I want to be professional 
+
