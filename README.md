@@ -1,6 +1,5 @@
-## Hi Everyone 👋
-👋 About Me :
-Hi, I'm vancuong, Coder, and studying at FPT University.
-I am very interested with Code, i am try-hard and update new knowledge.
-I want to be professional 
-
+Hi Everyone 👋
+👨‍💻 About Me :
+Hi, I'm Van Cuong — a passionate coder currently studying at FPT University.
+💻 I am highly interested in programming, always trying hard to improve and continuously updating my knowledge.
+🚀 My goal is to become a professional developer in the future.
