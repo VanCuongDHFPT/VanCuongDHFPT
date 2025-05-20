@@ -8,7 +8,8 @@ Hi, I'm Van Cuong — a passionate coder currently studying at FPT University.
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300">
 ### 💻 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=VanCuongDHFPT&show_icons=true&theme=tokyonight
+<img src = "https://github-readme-stats.vercel.app/api?username=VanCuongDHFPT&show_icons=true&theme=tokyonight" width =  "300">
+
 
 
 
