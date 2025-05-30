@@ -6,9 +6,7 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 
 
 <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300">
-### 💻 Van Cuong's GitHub Stats
 
-<img src = "https://github-readme-stats.vercel.app/api?username=VanCuongDHFPT&show_icons=true&theme=tokyonight" width =  "300">
 
 
 
