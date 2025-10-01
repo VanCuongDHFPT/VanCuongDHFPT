@@ -5,7 +5,8 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 🚀 My goal is to become a professional developer in the future.
 
 
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000">
+
 
 
 
