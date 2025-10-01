@@ -4,6 +4,7 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 💻 I am highly interested in programming, always trying hard to improve and continuously updating my knowledge.
 🚀 My goal is to become a professional developer in the future.
 =============================================================================================================
+<h1 style="text-align: center;">Tech languages</h1>
 <div style="display: flex; gap: 32px; flex-wrap: wrap;">
   <div align="center" style="flex: 1;">
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="70"/>
