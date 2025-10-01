@@ -25,7 +25,10 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 </div>
 </div>
 ================================================================================================================================================================================
-<div style="display: flex; align="center" "><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400"></div>
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400">
+</div>
+
 
 ================================================================================================================================================================================
 <h1>If EveryOne don't believe that .You Can InterView Me about Flied</h1>
