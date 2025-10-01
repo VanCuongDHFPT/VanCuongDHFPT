@@ -3,7 +3,7 @@ Hi Everyone 👋
 Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT University.
 💻 I am highly interested in programming, always trying hard to improve and continuously updating my knowledge.
 🚀 My goal is to become a professional developer in the future.
-=============================================================================================================
+
 <div align="center">
   <h1>💻 Tech languages</h1>
 </div>
@@ -25,7 +25,7 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 </div>
 </div>
 ================================================================================================================================================================================
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; gap: 32px; flex-wrap: wrap;">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400">
 </div>
 
