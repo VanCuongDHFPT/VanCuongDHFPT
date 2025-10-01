@@ -27,7 +27,10 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 ================================================================================================================================================================================
 If EveryOne don't believe that .You Can InterView Me about Flied
 
-FaceBook Here : https://www.facebook.com/van.cuong.503474](https://graph.facebook.com/van.cuong.503474/picture?type=large
+FaceBook Here : <a href="https://www.facebook.com/van.cuong.503474" target="_blank">
+  <img src="https://graph.facebook.com/van.cuong.503474/picture?type=large" 
+       alt="Facebook Profile" style="border-radius:50%">
+</a>
 
 
 
