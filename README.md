@@ -24,14 +24,14 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1v2Fle22kFIuVNGE5bcQzd0HNYtw5JO6Pg&s" height="70"/>
 </div>
 </div>
-================================================================================================================================================================================
+
 <div style="display: flex; gap: 32px; flex-wrap: wrap;">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="400">
 </div>
 
 
 
-================================================================================================================================================================================
+
 <h1>If EveryOne don't believe that .You Can InterView Me about Flied</h1>
 
 
