@@ -25,7 +25,7 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 </div>
 </div>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; gap:32px">
   <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="450">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="450">
 </div>
