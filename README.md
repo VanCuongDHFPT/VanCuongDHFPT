@@ -9,12 +9,12 @@ Hi, I'm Võ Văn Cường  — a passionate coder currently studying at FPT Univ
 </div>
 <div style="display: flex; gap: 32px; flex-wrap: wrap;">
   <div align="center" style="flex: 1;">
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="70"/>
+    <!-- <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="70"/> -->
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="70"/>
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="70"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="70"/>
-    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="70"/>
-    <img src="https://topdev.vn/blog/wp-content/uploads/2018/04/bootstrap-la-gi.png" height="70"/>
+    <!-- <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="70"/>
+    <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="70"/> -->
+    <!-- <img src="https://topdev.vn/blog/wp-content/uploads/2018/04/bootstrap-la-gi.png" height="70"/> -->
     <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
     <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="70"/>
     <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="70"/>
